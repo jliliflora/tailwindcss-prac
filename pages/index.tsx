@@ -81,7 +81,7 @@ export default function Home() {
               <span className="font-medium">340</span>
             </div>
 
-            <div className="h-24 w-24 bg-red-400 rounded-full" />
+            <div className="h-24 w-24 bg-zinc-400 rounded-full" />
 
             <div className="flex flex-col items-center">
               <span className="text-sm text-gray-500">Spent</span>
